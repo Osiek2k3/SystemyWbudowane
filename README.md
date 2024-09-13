@@ -10,7 +10,6 @@ Repozytorium zawiera projekty z przedmiotu **Systemy Wbudowane**, oparte na pły
   3. Komunikacja UART
 - Wymagania
 - Instalacja
-- Licencja
 
 ## Opis projektu
 Repozytorium zawiera trzy zadania, które dotyczą kluczowych aspektów programowania systemów wbudowanych z wykorzystaniem mikrokontrolera STM32L4. W każdym zadaniu korzystamy z bezpośredniego dostępu do rejestrów, bez wsparcia bibliotek HAL, co wymaga dogłębnej znajomości dokumentacji mikrokontrolera.
@@ -73,7 +72,6 @@ This repository contains projects developed as part of the **Embedded Systems** 
   3. UART communication
 - Requirements
 - Installation
-- License
 
 ## Project Overview
 This repository contains three tasks that cover key concepts in embedded systems programming on the KAmeleon-STM32L4 board. Each task focuses on a specific peripheral or functionality of the STM32 microcontroller, with low-level programming through direct register access instead of using the HAL library.
